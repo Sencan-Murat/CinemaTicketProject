@@ -4,6 +4,7 @@ Bu tasarladığımız sistem ile birlikte müşterilerimiz karmaşa yaşamadan b
 ayrıca kendi bilgilerini düzenleyip geçmiş satın alımlarını da görüntüleyebilecekler. 
 Yöneticiler ise sinemanın genel akışını kısa bir süre içerisinde görüntüleyip düzenleyebilecekler. 
 Personeller ise görev bilgilerine ve sinemanın mevcut durumuna rahat bir şekilde erişebileceklerdir.
+
 Eng/
 We are developing an automation system designed specifically for cinemas, catering to both users and administrators/employees. 
 With this system, our customers will be able to purchase tickets without hassle, manage their personal information, and view past purchases. 
